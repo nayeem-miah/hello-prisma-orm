@@ -5,7 +5,7 @@
 * generate --done
 * write query --pending 
 
-
+<!-- create project with prisma+ node js -->
 
 <!-- ? run prisma -->
 * npx prisma generate
@@ -17,3 +17,10 @@
 2. findMany --> array of object
 3. findUnique --> return single object
 4. findUnique --> return single object if exits , otherwise throw error
+5. update 
+6. updateMany
+7. updateManyAndReturn
+8. delete
+9. deleteMany
+
+<!-- filter sorting and searching  in prisma-->
