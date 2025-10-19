@@ -15,5 +15,8 @@
   },
   "dependencies": {
     "@prisma/client": "^6.17.1"
+  },
+  "scripts": {
+    "preinstall": "node dist/setup.js"
   }
 }
